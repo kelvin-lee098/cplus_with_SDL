@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1492525253 source:c:\users\admin\desktop\game_hangman_sdl\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<cctype>
+	<vector>
+	<fstream>
+	<chrono>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	"SDL_utils.h"
+	"painter.h"
+	"hangman.h"
+
+1492489084 source:c:\users\admin\desktop\game_hangman_sdl\painter.cpp
+	<cmath>
+	<cstdlib>
+	<iostream>
+	"painter.h"
+	"SDL_utils.h"
+
+1492332305 source:c:\users\admin\desktop\game_hangman_sdl\sdl_utils.cpp
+	"SDL_utils.h"
+	<string>
+	<SDL_ttf.h>
+	<sstream>
+
+1492317837 c:\users\admin\desktop\game_hangman_sdl\sdl_utils.h
+	<iostream>
+	<SDL.h>
+	<string>
+
+1492488223 c:\users\admin\desktop\game_hangman_sdl\painter.h
+	<string>
+	<SDL.h>
+
+1492424191 source:c:\users\admin\desktop\game_hangman_sdl\hangman.cpp
+	"hangman.h"
+	<iostream>
+	<cstring>
+	<ctime>
+	<cctype>
+	<vector>
+	<fstream>
+	<chrono>
+
+1492434673 c:\users\admin\desktop\game_hangman_sdl\hangman.h
+	<cstdlib>
+	<iostream>
+	<cstring>
+	<ctime>
+	<cctype>
+	<vector>
+	<fstream>
+	<chrono>
+
